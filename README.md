@@ -1,5 +1,3 @@
-# vscodeextensions
-A list of vs code extensions
 
 ## Instalaciones Necesarias
 [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
@@ -16,6 +14,7 @@ A list of vs code extensions
     "#9CDD29",
     "#C497D4"
 ],
+```
 
 ### Tema para VSCode:
 
@@ -25,8 +24,10 @@ A list of vs code extensions
 
 ### GIT
 
+```
 git config --global user.name "Tu nombre"
 git config --global user.email "Tu correo"
+```
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
