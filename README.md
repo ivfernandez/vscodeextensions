@@ -31,6 +31,9 @@ git config --global user.email "Tu correo"
 
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
+### JS/Node
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 ### .NET
 
 * [.NET Core Tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet)
